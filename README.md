@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayyanS3
 - 👀 I’m interested in software development and cloud computing
-- 🌱 I’m currently learning Python3 and Javascript
+- 🌱 I’m currently learning Python3, Javascript, HTML and CSS
 - 📫 How to reach me https://www.linkedin.com/in/rayyan-suhail/
 
 <!---
