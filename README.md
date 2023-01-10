@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayyanS3
-- 👀 I’m interested in software development and cloud computing
-- 🌱 I currently code in Python, Javascript, Java, Bash shell, Git, HTML and CSS
+- 👀 I’m a software engineering student at McMaster University.
+- 🌱 I currently code in Python, Javascript, Java, Bash shell, Git, HTML and CSS.
 - 📫 How to reach me https://www.linkedin.com/in/rayyan-suhail/
 
 <!---
