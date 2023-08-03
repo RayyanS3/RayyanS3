@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @RayyanS3
 - 👀 I’m a software engineering student at McMaster University, Canada.
-- 🌱 I currently code in Python, Javascript, Java, Bash shell, Git, HTML and CSS.
+- 🌱 I currently specialize in:
+- 1 - Fullstack developent
+- 2 - JavaScript based websites/web-apps
+- 3 - Back-end operations
+- 4 - Other variety of DevOps skills  
 - 📫 How to reach me https://www.linkedin.com/in/rayyan-suhail/
 - <-- That is my cat, Baloo 🐱
 <!---
