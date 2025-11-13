@@ -6,7 +6,6 @@
 - 3 - Back-end operations
 - 4 - Other variety of DevOps skills  
 - 📫 How to reach me https://www.linkedin.com/in/rayyan-suhail/
-- <-- That is my cat, Baloo 🐱
 <!---
 RayyanS3/RayyanS3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
